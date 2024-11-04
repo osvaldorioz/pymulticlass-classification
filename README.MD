@@ -1,0 +1,1 @@
+Este ejemplo se centra en la implementación de un clasificador con regresión logística para múltiples clases utilizando el método de descenso de gradiente.
